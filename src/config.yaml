@@ -1,6 +1,7 @@
 site:
   name: COVALENCE VENTURES
   site: 'https://cleberar38.github.io/coveab/'
+  # TODO: Change from / to /coveab/ when BUILD for PRODUCTION!
   base: '/coveab/'
   trailingSlash: false
 
